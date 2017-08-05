@@ -6,7 +6,9 @@
 
 ## Description
 
-_A blog about various pets. Click on a pet on the homepage to view a more detailed About page_
+_A blog about various pets. Click on a pet on the homepage to view a more detailed About page._
+
+_View on GitHub pages at [langlk.github.io/pet-blog](https://langlk.github.io/pet-blog/)._
 
 ## Setup
 
