@@ -11,7 +11,7 @@ _A blog about various pets. Click on a pet on the homepage to view a more detail
 ## Setup
 
 * Clone this repository
-* Open pet-homepage.html in web browser
+* Open index.html in web browser
 
 ## Support and Contact Details
 
